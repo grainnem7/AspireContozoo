@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace AspireContoso.Controllers
 {
+    // initial commit
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
